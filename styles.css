@@ -55,7 +55,14 @@ body {
     border-top: none;
     border-left: none;
     border-right: none;
-    display: space;
+    /* padding: auto; */
+    /* background-color: aqua; */
+    margin-top: 10px;
+    font-size: 24px;
+  }
+  .main-section{
+    text-align: left;
+  }
   
   .nav-link:hover {
     color: hwb(240 0% 99%);
