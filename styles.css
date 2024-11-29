@@ -51,7 +51,11 @@ body {
     text-decoration: none;
     margin: 0.5rem 0;
     transition: color 0.3s;
-  }
+    border: 1px solid grey;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    display: space;
   
   .nav-link:hover {
     color: hwb(240 0% 99%);
